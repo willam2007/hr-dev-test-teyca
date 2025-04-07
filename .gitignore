@@ -1,0 +1,3 @@
+# Игнорю гемы
+/vendor/bundle
+test_requests.postman_collection.json
